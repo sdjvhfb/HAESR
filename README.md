@@ -60,18 +60,3 @@ Use the corresponding experiment name for ×2 or ×3, and replace `1` with the a
 ## Acknowledgements
 
 We thank the authors of [ASID](https://github.com/saturnian77/ASID) and [Omni-SR](https://github.com/Francis0625/Omni-SR) for making their research and code publicly available.
-
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{LI2027115364,
-  title = {Multi-pattern hybrid-attention network for lightweight image super-resolution},
-  author = {Li, Mingyang and Liu, Yixiao and Qing, Linbo and He, Xiaohai and Ren, Chao},
-  journal = {Pattern Recognition},
-  volume = {185},
-  pages = {115364},
-  year = {2027},
-}
-```
