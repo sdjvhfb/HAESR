@@ -1,4 +1,5 @@
 # HAESR
+Multi-Pattern Hybrid-Attention Network for Lightweight Image Super-Resolution
 
 PyTorch implementation of HAESR for lightweight single image super-resolution.
 
