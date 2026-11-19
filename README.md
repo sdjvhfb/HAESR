@@ -73,6 +73,5 @@ If you find this work useful, please cite:
   volume = {185},
   pages = {115364},
   year = {2027},
-  doi = {10.1016/j.patcog.2026.115364}
 }
 ```
